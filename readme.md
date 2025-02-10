@@ -19,3 +19,6 @@ $ sudo docker run -d -p 8080:8080 -t spring-boot:1.0
 
   access http://localhost:8080
 ```
+
+
+![image](https://github.com/user-attachments/assets/480fa7f2-900b-4569-9c9a-efd0a58491f6)
